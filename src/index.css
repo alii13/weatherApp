@@ -8,6 +8,11 @@ body {
   background: url("./assets/weather.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  height: 100%;
+  background-position: center;
+}
+html {
+  height: 100%;
 }
 
 code {
